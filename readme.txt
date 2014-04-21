@@ -39,7 +39,7 @@ This first release is avaliable in English and Spanish. In the languages folder 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-seocrawlyticsexport-home).
 
 = Further Reading =
-You can access the description of the plugin in Spanish at: [Seo Crawlytics Data Export & Delete en castellano](http://apasionados.es/blog/).
+You can access the description of the plugin in Spanish at: [Seo Crawlytics Data Export & Delete en castellano](http://apasionados.es/blog/solucionar-problemas-rendimiento-seocrawlytics-wordpress-plugin-1950/).
 
 
 == Installation ==
